@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiesgoInundaciones", "RiesgoInundaciones\RiesgoInundaciones.csproj", "{32BDBD3C-8D9C-4D04-B4A6-30F1018FB580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaRiesgoInundaciones", "LogicaRiesgoInundaciones\LogicaRiesgoInundaciones.csproj", "{CE546076-BF66-48BB-A8C0-0386CC8E4D82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32BDBD3C-8D9C-4D04-B4A6-30F1018FB580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BDBD3C-8D9C-4D04-B4A6-30F1018FB580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BDBD3C-8D9C-4D04-B4A6-30F1018FB580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BDBD3C-8D9C-4D04-B4A6-30F1018FB580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE546076-BF66-48BB-A8C0-0386CC8E4D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE546076-BF66-48BB-A8C0-0386CC8E4D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE546076-BF66-48BB-A8C0-0386CC8E4D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE546076-BF66-48BB-A8C0-0386CC8E4D82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C05127E-9532-4BE8-B9F7-982C50E30406}
+	EndGlobalSection
+EndGlobal

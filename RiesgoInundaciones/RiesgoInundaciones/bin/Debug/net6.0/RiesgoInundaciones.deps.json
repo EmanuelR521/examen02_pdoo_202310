@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RiesgoInundaciones/1.0.0": {
+        "dependencies": {
+          "LogicaRiesgoInundaciones": "1.0.0"
+        },
+        "runtime": {
+          "RiesgoInundaciones.dll": {}
+        }
+      },
+      "LogicaRiesgoInundaciones/1.0.0": {
+        "runtime": {
+          "LogicaRiesgoInundaciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RiesgoInundaciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaRiesgoInundaciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
